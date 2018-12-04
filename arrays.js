@@ -18,7 +18,9 @@ var instructors = [
 // ---------------------------
 // 1. Find largest number
 // ---------------------------
-
+	function largestNum(numbers){
+		return Math.max(numbers)
+	}
 
 // ---------------------------
 // 2. Find longest string
